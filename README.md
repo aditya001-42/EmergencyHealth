@@ -44,7 +44,7 @@ EmergencyHealth+ is an AI-powered healthcare solution designed to address critic
 
 ## GitHub Repository
 
-- [EmergencyHealth+ Repository](https://github.com/aditya001-42/EmergencyHealthPlus)
+- [EmergencyHealth+ Repository](https://github.com/aditya001-42/EmergencyHealth/)
 - Please refer to the repository for detailed information on the project, installation instructions, and code structure.
 
 ## WebApp URL
